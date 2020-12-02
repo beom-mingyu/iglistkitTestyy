@@ -1,0 +1,6 @@
+framework module Pods_iglistkityogi {
+  umbrella header "Pods-iglistkityogi-umbrella.h"
+
+  export *
+  module * { export * }
+}
